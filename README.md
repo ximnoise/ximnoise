@@ -8,7 +8,8 @@
 - 🔭 I'm almost done with my bootcamp at: [CareerFoundry](https://careerfoundry.com)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🤩 2021 Main-Goal: Switch industries and become developer
+- 🤝 2021 Sub-Goal: Contribute to Open Source projects
 
 <br />
 
