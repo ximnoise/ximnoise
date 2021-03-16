@@ -20,7 +20,7 @@
 <br />
 <br />
 
-# 💻Language & Tools
+**💻Language & Tools**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
@@ -34,7 +34,7 @@
 <br />
 <br />
 
-# 📈 My GitHub Stats
+**📈 My GitHub Stats**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-ximnoise.vercel.app/api?username=ximnoise&show_icons=true&hide=issues&theme=onedark" />
