@@ -1,5 +1,5 @@
 ### Hey there, I 'm Maximilian <img src="https://media.giphy.com/media/4tSHBpzJw7R3rrKUeo/giphy.gif" width="35px" />
-![Twitter URL](https://img.shields.io/twitter/url?color=%23009eff&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fximnoise))
+![Twitter URL](https://img.shields.io/twitter/url?color=%23009eff&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fximnoise)
 ![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fwww.maximilianrogge.com)
 
 ## I'm a Industrial mechanic and self taught Web-Developer!!
