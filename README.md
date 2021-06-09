@@ -39,8 +39,8 @@
 **📈 My GitHub Stats**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-ximnoise.vercel.app/api?username=ximnoise&show_icons=true&hide=issues&theme=onedark" />
+  <img align="center" src="https://github-readme-stats2-ximnoise.vercel.app/api?username=ximnoise&show_icons=true&hide=issues&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-ximnoise.vercel.app/api/top-langs?username=ximnoise&layout=compact&theme=onedark" />
+  <img align="center" src="https://github-readme-stats2-ximnoise.vercel.app/api/top-langs?username=ximnoise&layout=compact&theme=onedark" />
 </a>
