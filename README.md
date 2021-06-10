@@ -1,6 +1,4 @@
-### Hey there, I 'm Maximilian <img src="https://media.giphy.com/media/4tSHBpzJw7R3rrKUeo/giphy.gif" width="35px" />
-![Twitter URL](https://img.shields.io/twitter/url?color=%23009eff&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fximnoise)
-![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fwww.maximilianrogge.com)
+# Hey there, I 'm Maximilian <img src="https://media.giphy.com/media/4tSHBpzJw7R3rrKUeo/giphy.gif" width="35px" />
 
 ## I'm a Industrial mechanic and self taught Web-Developer!!
 
@@ -15,7 +13,8 @@
 <img align="left" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [ximnoise](https://twitter.com/ximnoise)
+- 📫 How to reach me: [Twitter](https://twitter.com/ximnoise) | [LinkedIn](https://www.linkedin.com/in/maximilian-rogge-5717461b9)
+- 📁 [My Portfolio](https://www.maximilianrogge.com)
 
 <br />
 <br />
