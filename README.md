@@ -4,7 +4,7 @@ Not my main account, my main account is over on [Codeberg](https://codeberg.org/
 
 ######
 
-# Hey there :wave:
+# Hey there :wave: :wave:
 
 I'm ximnoise, a passionate self-taught junior-sysadmin and full-stack webdeveloper from germany with passion for cybersecurity. I am also an open-source enthusiast and i love how collaboration and knowledge sharing happened through open-source.
 
